@@ -1,6 +1,6 @@
 {
-  name:"minimalApp",
-  description:"Flow minimimal app",
-  triggers: [],
-  action: []
-};
+  "name":"minimalApp",
+  "description":"Flow minimimal app",
+  "triggers": [],
+  "action": []
+}
