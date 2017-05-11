@@ -14,6 +14,9 @@
     "flow-cli",
     "minimal-app"
   ],
+  "dependecies": {
+    "colors": "1.1.2"
+  },
   "author": "Kailash Yogeshwar",
   "license": "ISC",
   "bugs": {
