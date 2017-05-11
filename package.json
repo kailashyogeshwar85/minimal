@@ -14,7 +14,7 @@
     "flow-cli",
     "minimal-app"
   ],
-  "dependecies": {
+  "dependencies": {
     "colors": "1.1.2"
   },
   "author": "Kailash Yogeshwar",
