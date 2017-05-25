@@ -3,5 +3,6 @@
   "description":"Flow minimimal app",
   "triggers": [],
   "lookups": [],
-  "actions": []
+  "actions": [],
+  "docs_link": "http://docs.example.com" 
 }
