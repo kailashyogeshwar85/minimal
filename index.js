@@ -4,5 +4,6 @@
   "triggers": [],
   "lookups": [],
   "actions": [],
-  "docs_link": "http://docs.example.com" 
+  "version": 1,
+  "docs_link": "http://docs.example.com"
 }
