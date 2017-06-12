@@ -5,5 +5,6 @@
   "lookups": [],
   "actions": [],
   "version": 1,
+  "auth": null,
   "docs_link": "http://docs.example.com"
 }
